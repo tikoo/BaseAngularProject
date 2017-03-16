@@ -1,0 +1,19 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.primaryColor {
+	background: #22295F;
+}
+
+.secondaryColor {
+	background: #1A1F48;
+}
+
+.primaryTextColor {
+	color: #D17C78;
+}
+
+.secondaryTextColor {
+	color: #8D8FA2;
+}
